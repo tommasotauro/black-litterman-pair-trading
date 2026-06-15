@@ -66,6 +66,9 @@ The framework combines:
 ### Strategy vs Benchmark
 
 ![Strategy vs SPY](results/strategy_vs_spy.png)
+### Performance and Drawdown
+
+![Performance and Drawdown](results/strategy_drawdown.png)
 ## Technologies
 
 - R
