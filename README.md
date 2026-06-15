@@ -61,7 +61,11 @@ The framework combines:
 | Sharpe Ratio | 1.361 | 1.546 |
 | Max Drawdown | -6.82% | -9.19% |
 | Calmar Ratio | 2.678 | 1.748 |
+## Visual Results
 
+### Strategy vs Benchmark
+
+![Strategy vs SPY](results/strategy_vs_spy.png)
 ## Technologies
 
 - R
